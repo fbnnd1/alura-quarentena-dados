@@ -1,6 +1,6 @@
 # Leiame
 
-Este repositório contém os notebooks que desenvolvi por meio das aulas da #QuarentenaDados, projeto promovido principalemnte pela Alura, ![Alura](http://www.alura.com.br/).
+Este repositório contém os notebooks que desenvolvi por meio das aulas da #QuarentenaDados, projeto promovido principalemnte pela [Alura](http://www.alura.com.br/).
 
 O projeto #QuarentenaDados, apresentou para os participantes uma introdução sobre DataScience. 
 
