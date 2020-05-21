@@ -6,5 +6,5 @@ O projeto #QuarentenaDados, apresentou para os participantes uma introdução so
 
 ## Organização do repositório
 
-* Respostas: Contém minhas respostas aos desafios desenvolvidos em aula.
-* Desafio: Contém minha resposta ao desafio final.
+* Respostas: Contém minhas respostas aos desafios desenvolvidos em aula no formato de Notebooks Jupyter usando Python.
+* Desafio: Contém minha resposta ao desafio final no formato de Notebook Jupyter usando Python.
